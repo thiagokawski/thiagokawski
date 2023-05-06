@@ -1,6 +1,6 @@
 ## Olá, sou Thiago Kawski
 - <p>👨🏻‍💻 Trabalho com Desenvolvimento Web </p>
-- <p>📚 Estudo Técnico em Ánalise e Desenvolvimento de Sistemas </p>
+- <p>📚 Estudo Ánalise e Desenvolvimento de Sistemas </p>
 <br>
 
 ## ⚙Meu GitHub
