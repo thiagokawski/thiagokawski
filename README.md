@@ -5,8 +5,8 @@
 
 ## ⚙Meu GitHub
 <div align="left">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=thiagokawski&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagokawski&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=thiagokawski&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagokawski&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
 ## 🛠️Tecnologias Mais Utilizadas
