@@ -3,12 +3,6 @@
 - <p>📚 Cursando Ánalise e Desenvolvimento de Sistemas </p>
 <br>
 
-## ⚙Meu GitHub
-<div align="left">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=thiagokawski&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagokawski&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
-
 ## 🛠️Tecnologias Mais Utilizadas
 <div style="display: inline_block">
 <img align="center" alt="HTML5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
